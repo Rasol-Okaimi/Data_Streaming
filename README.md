@@ -1,5 +1,5 @@
 # Data_Streaming
-بعض مصطلحات ومفاهيم الأساسية المرتبطة بتدفّق البيانات - Some basic terms and concepts related to Data Streaming
+بعض مصطلحات ومفاهيم الأساسية المرتبطة بمعالجة تدفّق البيانات - Some basic terms and concepts related to Data Streaming
 
 
 ## 1- Data Streaming مفهوم معالجة تدفّق البيانات
